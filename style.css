@@ -48,7 +48,7 @@ html {
     background-color: #ccc;
     height: 100vh;
     width: 100%;
-    background-image: url('https://github.com/GauthamRVanjre/LearningGitHub/blob/main/stage.jpg?raw=true');
+    background-image: url('stage.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
