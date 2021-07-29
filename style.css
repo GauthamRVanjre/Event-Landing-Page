@@ -144,6 +144,12 @@ article p {
     background-color: rgba( 27, 27, 50, 0.6);
 }
 
+@media screen and (max-width:1024px){
+    .card{
+        width: 12rem !important;
+    }
+}
+
 
 /* styling of registration section */
 
@@ -216,6 +222,13 @@ iframe {
         width: 80%;
         margin-bottom: 10px;
     }
+}
+
+@media screen and (max-width: 1024px){
+    .form{
+        width: 70%;
+    }
+
 }
 
 
