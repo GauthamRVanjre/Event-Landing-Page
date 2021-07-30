@@ -144,8 +144,8 @@ article p {
     background-color: rgba( 27, 27, 50, 0.6);
 }
 
-@media screen and (max-width:1024px){
-    .card{
+@media screen and (max-width:1024px) {
+    .card {
         width: 12rem !important;
     }
 }
@@ -224,11 +224,10 @@ iframe {
     }
 }
 
-@media screen and (max-width: 1024px){
-    .form{
+@media screen and (max-width: 1024px) {
+    .form {
         width: 70%;
     }
-
 }
 
 
